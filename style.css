@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+    border: 0;
+    padding: 0%;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+span{
+    padding: 10px;
+}
+.nav{
+    text-align: center;
+    background-color: burlywood;
+}
